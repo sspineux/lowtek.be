@@ -1,3 +1,3 @@
 # lowtek.be
 
-A website about low-tech.
+A low-tech website about low-tech.
